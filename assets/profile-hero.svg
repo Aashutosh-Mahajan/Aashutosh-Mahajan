@@ -1,0 +1,60 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Aashutosh Mahajan — AI and Backend Engineer</title>
+  <desc id="description">An ink-black, signal-red technical interface banner for Aashutosh Mahajan.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080808"/>
+      <stop offset="0.5" stop-color="#11100F"/>
+      <stop offset="1" stop-color="#080808"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="80" y1="0" x2="1130" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4655" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#FF4655"/>
+      <stop offset="0.75" stop-color="#FF6E78"/>
+      <stop offset="1" stop-color="#FF4655" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(595 193) rotate(90) scale(206 475)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4655" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FF4655" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#F5EFE2" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="18" fill="url(#surface)"/>
+  <rect width="1200" height="390" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="390" rx="18" fill="url(#glow)"/>
+
+  <path d="M0 305C124 305 166 245 270 245C366 245 392 327 500 327C615 327 629 219 750 219C859 219 882 281 964 281C1050 281 1080 222 1200 222" stroke="url(#signal)" stroke-opacity="0.26" stroke-width="1"/>
+  <path d="M0 314C124 314 166 254 270 254C366 254 392 336 500 336C615 336 629 228 750 228C859 228 882 290 964 290C1050 290 1080 231 1200 231" stroke="url(#signal)" stroke-opacity="0.6" stroke-width="2" filter="url(#softGlow)"/>
+  <path d="M0 84H236L293 141H440" stroke="#F5EFE2" stroke-opacity="0.18"/>
+  <path d="M1200 84H967L910 141H760" stroke="#F5EFE2" stroke-opacity="0.18"/>
+  <path d="M90 353H330" stroke="#FF4655" stroke-width="2"/>
+  <path d="M870 353H1110" stroke="#FF4655" stroke-width="2"/>
+
+  <g fill="#FF4655" filter="url(#softGlow)">
+    <circle cx="270" cy="254" r="4"/><circle cx="500" cy="336" r="4"/><circle cx="750" cy="228" r="4"/><circle cx="964" cy="290" r="4"/>
+  </g>
+  <g fill="#F5EFE2" fill-opacity="0.72">
+    <circle cx="236" cy="84" r="3"/><circle cx="293" cy="141" r="3"/><circle cx="967" cy="84" r="3"/><circle cx="910" cy="141" r="3"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="104" fill="#FF4655" font-size="12" font-weight="700" letter-spacing="5">INK PROTOCOL / ONLINE</text>
+    <text x="600" y="181" fill="#F5EFE2" font-size="55" font-weight="800" letter-spacing="2">AASHUTOSH</text>
+    <text x="600" y="239" fill="#F5EFE2" fill-opacity="0.92" font-size="52" font-weight="300" letter-spacing="12">MAHAJAN</text>
+    <text x="600" y="278" fill="#F5EFE2" fill-opacity="0.68" font-size="13" font-weight="700" letter-spacing="3">AI + BACKEND ENGINEER  /  MUMBAI, INDIA</text>
+  </g>
+
+  <g font-family="monospace" font-size="10" letter-spacing="1.5" fill="#F5EFE2" fill-opacity="0.46">
+    <text x="90" y="51">SYSTEMS // AGENTS // PRODUCTS</text>
+    <text x="910" y="51">NODE: AM-01</text>
+    <text x="90" y="373">SIGNAL STABLE</text>
+    <text x="1002" y="373">EST. 2026</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Aashutosh's engineering focus</title>
+  <desc id="description">Three connected panels representing agentic AI, backend architecture, and full-stack product engineering.</desc>
+  <defs>
+    <linearGradient id="edge" x1="52" y1="30" x2="1148" y2="178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4655" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#FF4655" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FF4655" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="microGrid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M18 0H0V18" stroke="#F5EFE2" stroke-opacity="0.04"/>
+    </pattern>
+    <filter id="mapGlow" x="-30%" y="-70%" width="160%" height="240%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="210" rx="14" fill="#0A0A0A"/>
+  <rect width="1200" height="210" rx="14" fill="url(#microGrid)"/>
+  <path d="M74 105H1126" stroke="url(#edge)" stroke-width="2" filter="url(#mapGlow)"/>
+  <circle cx="74" cy="105" r="4" fill="#FF4655"/><circle cx="600" cy="105" r="5" fill="#FF4655" filter="url(#mapGlow)"/><circle cx="1126" cy="105" r="4" fill="#FF4655"/>
+
+  <g>
+    <rect x="57" y="31" width="300" height="148" rx="10" fill="#13110F" stroke="#F5EFE2" stroke-opacity="0.14"/>
+    <rect x="57" y="31" width="300" height="3" rx="1.5" fill="#FF4655"/>
+    <text x="84" y="66" fill="#FF4655" font-family="monospace" font-size="11" font-weight="700" letter-spacing="2.2">01 / INTELLIGENCE</text>
+    <text x="84" y="104" fill="#F5EFE2" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">AGENTIC AI</text>
+    <text x="84" y="133" fill="#F5EFE2" fill-opacity="0.6" font-family="Arial, Helvetica, sans-serif" font-size="13">Multi-agent workflows · ML pipelines</text>
+    <text x="84" y="154" fill="#F5EFE2" fill-opacity="0.37" font-family="monospace" font-size="10" letter-spacing="1.2">DOCUMENTS / DECISIONS / DATA</text>
+  </g>
+
+  <g>
+    <rect x="450" y="31" width="300" height="148" rx="10" fill="#13110F" stroke="#FF4655" stroke-opacity="0.42"/>
+    <rect x="450" y="31" width="300" height="3" rx="1.5" fill="#FF4655"/>
+    <text x="477" y="66" fill="#FF4655" font-family="monospace" font-size="11" font-weight="700" letter-spacing="2.2">02 / FOUNDATION</text>
+    <text x="477" y="104" fill="#F5EFE2" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">BACKEND SYSTEMS</text>
+    <text x="477" y="133" fill="#F5EFE2" fill-opacity="0.6" font-family="Arial, Helvetica, sans-serif" font-size="13">APIs · architecture · scalable data</text>
+    <text x="477" y="154" fill="#F5EFE2" fill-opacity="0.37" font-family="monospace" font-size="10" letter-spacing="1.2">DJANGO / FASTAPI / POSTGRES</text>
+  </g>
+
+  <g>
+    <rect x="843" y="31" width="300" height="148" rx="10" fill="#13110F" stroke="#F5EFE2" stroke-opacity="0.14"/>
+    <rect x="843" y="31" width="300" height="3" rx="1.5" fill="#FF4655"/>
+    <text x="870" y="66" fill="#FF4655" font-family="monospace" font-size="11" font-weight="700" letter-spacing="2.2">03 / DELIVERY</text>
+    <text x="870" y="104" fill="#F5EFE2" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">MACHINE LEARNING</text>
+    <text x="870" y="133" fill="#F5EFE2" fill-opacity="0.6" font-family="Arial, Helvetica, sans-serif" font-size="13">Data-driven models with real-world impact</text>
+    <text x="870" y="154" fill="#F5EFE2" fill-opacity="0.37" font-family="monospace" font-size="10" letter-spacing="1.2">PYTHON / TENSORFLOW / OPENCV</text>
+  </g>
+</svg>

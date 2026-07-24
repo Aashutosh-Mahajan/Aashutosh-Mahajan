@@ -1,0 +1,36 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Engineering systems dashboard</title>
+  <desc id="description">A clean dark technical dashboard showing Aashutosh's engineering profile.</desc>
+  <defs>
+    <linearGradient id="dashBg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#0A0A0A"/><stop offset="0.5" stop-color="#15110F"/><stop offset="1" stop-color="#0A0A0A"/></linearGradient>
+    <filter id="dashGlow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="270" rx="14" fill="url(#dashBg)"/>
+  <path d="M45 55H1155M45 218H1155" stroke="#F5EFE2" stroke-opacity="0.1"/>
+  <text x="52" y="35" fill="#FF4655" font-family="monospace" font-size="10" font-weight="700" letter-spacing="2.4">ENGINEERING DASHBOARD // AM-01</text>
+  <text x="1148" y="35" text-anchor="end" fill="#F5EFE2" fill-opacity="0.42" font-family="monospace" font-size="10" letter-spacing="1.4">SYSTEM STATUS: ACTIVE</text>
+
+  <g>
+    <rect x="52" y="78" width="330" height="108" rx="9" fill="#13110F" stroke="#F5EFE2" stroke-opacity="0.13"/>
+    <rect x="52" y="78" width="4" height="108" rx="2" fill="#FF4655"/>
+    <text x="80" y="110" fill="#FF4655" font-family="monospace" font-size="10" font-weight="700" letter-spacing="2">CURRENT VECTOR</text>
+    <text x="80" y="145" fill="#F5EFE2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">AI + BACKEND</text>
+    <text x="80" y="169" fill="#F5EFE2" fill-opacity="0.56" font-family="Arial, Helvetica, sans-serif" font-size="13">Agents, APIs, architecture</text>
+  </g>
+  <g>
+    <rect x="435" y="78" width="330" height="108" rx="9" fill="#13110F" stroke="#F5EFE2" stroke-opacity="0.13"/>
+    <path d="M435 82H765" stroke="#FF4655" stroke-opacity="0.9" stroke-width="3" filter="url(#dashGlow)"/>
+    <text x="463" y="110" fill="#FF4655" font-family="monospace" font-size="10" font-weight="700" letter-spacing="2">OPERATING MODE</text>
+    <text x="463" y="145" fill="#F5EFE2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">BUILD &amp; ITERATE</text>
+    <text x="463" y="169" fill="#F5EFE2" fill-opacity="0.56" font-family="Arial, Helvetica, sans-serif" font-size="13">From idea to production-ready</text>
+  </g>
+  <g>
+    <rect x="818" y="78" width="330" height="108" rx="9" fill="#13110F" stroke="#F5EFE2" stroke-opacity="0.13"/>
+    <rect x="818" y="78" width="4" height="108" rx="2" fill="#FF4655"/>
+    <text x="846" y="110" fill="#FF4655" font-family="monospace" font-size="10" font-weight="700" letter-spacing="2">COLLABORATION</text>
+    <text x="846" y="145" fill="#F5EFE2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">OPEN CHANNEL</text>
+    <text x="846" y="169" fill="#F5EFE2" fill-opacity="0.56" font-family="Arial, Helvetica, sans-serif" font-size="13">Mumbai · remote-friendly</text>
+  </g>
+  <g fill="#FF4655"><circle cx="57" cy="238" r="3"/><circle cx="170" cy="238" r="3"/><circle cx="283" cy="238" r="3"/><circle cx="396" cy="238" r="3"/><circle cx="509" cy="238" r="3"/><circle cx="622" cy="238" r="3"/><circle cx="735" cy="238" r="3"/><circle cx="848" cy="238" r="3"/><circle cx="961" cy="238" r="3"/><circle cx="1074" cy="238" r="3"/><circle cx="1143" cy="238" r="3"/></g>
+  <path d="M57 238H1143" stroke="#FF4655" stroke-opacity="0.28"/>
+</svg>

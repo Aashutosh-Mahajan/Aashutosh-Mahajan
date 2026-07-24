@@ -1,0 +1,42 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Contribution constellation</title>
+  <desc id="description">A modern technical interpretation of a GitHub contribution graph in signal red.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0A0A0A"/><stop offset="0.52" stop-color="#13100F"/><stop offset="1" stop-color="#0A0A0A"/></linearGradient>
+    <filter id="redGlow" x="-40%" y="-100%" width="180%" height="300%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#canvas)"/>
+  <path d="M54 76H1146M54 245H1146" stroke="#F5EFE2" stroke-opacity="0.1"/>
+  <text x="55" y="47" fill="#FF4655" font-family="monospace" font-size="11" font-weight="700" letter-spacing="2.6">CONTRIBUTION CONSTELLATION</text>
+  <text x="1145" y="47" text-anchor="end" fill="#F5EFE2" fill-opacity="0.45" font-family="monospace" font-size="10" letter-spacing="1.6">BUILD / LEARN / SHIP</text>
+
+  <g fill="#1B1515">
+    <rect x="55" y="92" width="18" height="18" rx="3"/><rect x="55" y="116" width="18" height="18" rx="3"/><rect x="55" y="140" width="18" height="18" rx="3"/><rect x="55" y="164" width="18" height="18" rx="3"/><rect x="55" y="188" width="18" height="18" rx="3"/>
+    <rect x="79" y="92" width="18" height="18" rx="3"/><rect x="79" y="116" width="18" height="18" rx="3"/><rect x="79" y="140" width="18" height="18" rx="3"/><rect x="79" y="164" width="18" height="18" rx="3"/><rect x="79" y="188" width="18" height="18" rx="3"/>
+    <rect x="103" y="92" width="18" height="18" rx="3"/><rect x="103" y="116" width="18" height="18" rx="3"/><rect x="103" y="140" width="18" height="18" rx="3"/><rect x="103" y="164" width="18" height="18" rx="3"/><rect x="103" y="188" width="18" height="18" rx="3"/>
+    <rect x="127" y="92" width="18" height="18" rx="3"/><rect x="127" y="116" width="18" height="18" rx="3"/><rect x="127" y="140" width="18" height="18" rx="3"/><rect x="127" y="164" width="18" height="18" rx="3"/><rect x="127" y="188" width="18" height="18" rx="3"/>
+    <rect x="151" y="92" width="18" height="18" rx="3"/><rect x="151" y="116" width="18" height="18" rx="3"/><rect x="151" y="140" width="18" height="18" rx="3"/><rect x="151" y="164" width="18" height="18" rx="3"/><rect x="151" y="188" width="18" height="18" rx="3"/>
+  </g>
+  <use href="#grid" x="120"/><use href="#grid" x="240"/><use href="#grid" x="360"/><use href="#grid" x="480"/><use href="#grid" x="600"/><use href="#grid" x="720"/><use href="#grid" x="840"/><use href="#grid" x="960"/>
+  <defs>
+    <g id="grid" fill="#1B1515">
+      <rect x="55" y="92" width="18" height="18" rx="3"/><rect x="55" y="116" width="18" height="18" rx="3"/><rect x="55" y="140" width="18" height="18" rx="3"/><rect x="55" y="164" width="18" height="18" rx="3"/><rect x="55" y="188" width="18" height="18" rx="3"/>
+      <rect x="79" y="92" width="18" height="18" rx="3"/><rect x="79" y="116" width="18" height="18" rx="3"/><rect x="79" y="140" width="18" height="18" rx="3"/><rect x="79" y="164" width="18" height="18" rx="3"/><rect x="79" y="188" width="18" height="18" rx="3"/>
+      <rect x="103" y="92" width="18" height="18" rx="3"/><rect x="103" y="116" width="18" height="18" rx="3"/><rect x="103" y="140" width="18" height="18" rx="3"/><rect x="103" y="164" width="18" height="18" rx="3"/><rect x="103" y="188" width="18" height="18" rx="3"/>
+      <rect x="127" y="92" width="18" height="18" rx="3"/><rect x="127" y="116" width="18" height="18" rx="3"/><rect x="127" y="140" width="18" height="18" rx="3"/><rect x="127" y="164" width="18" height="18" rx="3"/><rect x="127" y="188" width="18" height="18" rx="3"/>
+      <rect x="151" y="92" width="18" height="18" rx="3"/><rect x="151" y="116" width="18" height="18" rx="3"/><rect x="151" y="140" width="18" height="18" rx="3"/><rect x="151" y="164" width="18" height="18" rx="3"/><rect x="151" y="188" width="18" height="18" rx="3"/>
+    </g>
+  </defs>
+  <g fill="#5E2029">
+    <rect x="175" y="140" width="18" height="18" rx="3"/><rect x="223" y="164" width="18" height="18" rx="3"/><rect x="295" y="116" width="18" height="18" rx="3"/><rect x="343" y="188" width="18" height="18" rx="3"/><rect x="439" y="140" width="18" height="18" rx="3"/><rect x="487" y="92" width="18" height="18" rx="3"/><rect x="559" y="188" width="18" height="18" rx="3"/><rect x="655" y="116" width="18" height="18" rx="3"/><rect x="727" y="164" width="18" height="18" rx="3"/><rect x="823" y="92" width="18" height="18" rx="3"/><rect x="919" y="140" width="18" height="18" rx="3"/><rect x="1039" y="188" width="18" height="18" rx="3"/>
+  </g>
+  <g fill="#B83645">
+    <rect x="199" y="116" width="18" height="18" rx="3"/><rect x="247" y="140" width="18" height="18" rx="3"/><rect x="319" y="92" width="18" height="18" rx="3"/><rect x="367" y="164" width="18" height="18" rx="3"/><rect x="463" y="116" width="18" height="18" rx="3"/><rect x="511" y="140" width="18" height="18" rx="3"/><rect x="583" y="164" width="18" height="18" rx="3"/><rect x="679" y="140" width="18" height="18" rx="3"/><rect x="751" y="92" width="18" height="18" rx="3"/><rect x="847" y="188" width="18" height="18" rx="3"/><rect x="943" y="116" width="18" height="18" rx="3"/><rect x="1063" y="140" width="18" height="18" rx="3"/>
+  </g>
+  <g fill="#FF4655" filter="url(#redGlow)">
+    <rect x="271" y="164" width="18" height="18" rx="3"/><rect x="391" y="140" width="18" height="18" rx="3"/><rect x="415" y="164" width="18" height="18" rx="3"/><rect x="535" y="116" width="18" height="18" rx="3"/><rect x="607" y="140" width="18" height="18" rx="3"/><rect x="631" y="164" width="18" height="18" rx="3"/><rect x="703" y="188" width="18" height="18" rx="3"/><rect x="775" y="140" width="18" height="18" rx="3"/><rect x="871" y="116" width="18" height="18" rx="3"/><rect x="895" y="140" width="18" height="18" rx="3"/><rect x="967" y="164" width="18" height="18" rx="3"/><rect x="1087" y="116" width="18" height="18" rx="3"/>
+  </g>
+  <g font-family="monospace" font-size="10" fill="#F5EFE2" fill-opacity="0.43" letter-spacing="1.3">
+    <text x="55" y="273">JAN</text><text x="235" y="273">MAR</text><text x="415" y="273">MAY</text><text x="595" y="273">JUL</text><text x="775" y="273">SEP</text><text x="955" y="273">NOV</text><text x="1100" y="273">NOW</text>
+  </g>
+</svg>

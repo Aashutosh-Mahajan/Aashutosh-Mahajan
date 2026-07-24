@@ -1,17 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>• AI-powered multi-agent systems for document understanding & decision support  <br>• Full-stack web applications using Django, JavaScript & Tailwind CSS  <br>• Scalable backend architectures and database-driven systems  <br><br>👯 I’m looking to collaborate on  <br>• AI / ML projects (NLP, computer vision, agent-based systems)  <br>• Backend and system design projects  <br>• Open-source software and research-oriented prototypes  <br><br>🤝 I’m looking for help with  <br>• Advanced machine learning model optimization and deployment  <br>• MLOps, cloud infrastructure, and real-time data systems  <br>• Large-scale system design and performance tuning  <br><br>🌱 I’m currently learning  <br>• Advanced Data Structures & Algorithms  <br>• Machine Learning, Deep Learning, and Multi-Agent AI  <br>• Distributed systems and backend scalability  <br><br>💬 Ask me about  <br>• Java, Python, and backend development  <br>• Django, REST APIs, and databases  <br>• System design and application architecture  <br><br>⚡ Fun fact  <br>I enjoy breaking down complex systems and rebuilding them into efficient, well-structured solutions 🚀<br>
+<div align="center">
 
+  <a href="https://aashutoshmahajan.me/"><img width="100%" src="./assets/profile-hero.svg" alt="Aashutosh Mahajan — AI and Backend Engineer" /></a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutosh-mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashutoshmahajan.2007@gmail.com) 
+  <br />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Aashutosh-Mahajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aashutosh-Mahajan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aashutosh-Mahajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="https://aashutoshmahajan.me/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4655?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aashutosh-mahajan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aashutoshmahajan.2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5EFE2?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
 
----
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+<div align="center">
+
+<img width="100%" src="./assets/signal-map.svg" alt="A visual map of Aashutosh's engineering focus: agentic AI, backend systems, and full-stack delivery" />
+
+</div>
+
+## Systems I speak
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,fastapi,flask,tailwind,postgres,supabase,git,github,vercel,netlify&theme=dark" alt="Core technologies: Python, Java, JavaScript, React, Next.js, Django, FastAPI, Flask, Tailwind CSS, PostgreSQL, Supabase, Git, GitHub, Vercel and Netlify" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/AI_%26_DATA-0A0A0A?style=for-the-badge&logo=openai&logoColor=FF4655" alt="AI and data" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=FF4655" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=FF4655" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=FF4655" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF4655" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=FF4655" alt="OpenCV" />
+
+</div>
+
+## Engineering telemetry
+
+<div align="center">
+
+<img width="94%" src="./assets/systems-dashboard.svg" alt="A visual engineering systems dashboard" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <img width="94%" src="./assets/contribution-constellation.svg" alt="A modern contribution constellation in signal red" />
+</picture>
+
+</div>
+
+## The good stuff
+
+I build intelligent products from the systems layer up: agentic workflows, machine-learning pipelines, dependable APIs, and interfaces that make complex technology feel intuitive. My recent work explores healthcare, financial intelligence, multilingual audio, and developer tooling.
+
+I care about more than getting a demo running. The best projects pair thoughtful architecture with fast iteration, clear product decisions, and an experience people actually want to use.
+
+<div align="center">
+
+  <a href="https://aashutoshmahajan.me/"><strong>Explore the full project archive &rarr;</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:aashutoshmahajan.2007@gmail.com"><strong>Let's build something memorable &rarr;</strong></a>
+
+  <br /><br />
+  <sub>Made with intent, curiosity, and a little healthy obsession with clean systems.</sub>
+
+</div>
