@@ -7,7 +7,6 @@
   <a href="https://aashutoshmahajan.me/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4655?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/aashutosh-mahajan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aashutoshmahajan.2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5EFE2?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
-  <a href="https://github.com/Aashutosh-Mahajan?tab=followers"><img src="https://img.shields.io/github/followers/Aashutosh-Mahajan?style=for-the-badge&color=0A0A0A&labelColor=FF4655&logo=github&logoColor=0A0A0A&label=FOLLOW" alt="GitHub followers" /></a>
 
 </div>
 
@@ -68,8 +67,5 @@ I care about more than getting a demo running. The best projects pair thoughtful
 
   <br /><br />
   <sub>Made with intent, curiosity, and a little healthy obsession with clean systems.</sub>
-
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=Aashutosh-Mahajan&color=FF4655&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0A0A0A" alt="Profile view count" />
 
 </div>
