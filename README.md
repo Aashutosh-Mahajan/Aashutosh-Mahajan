@@ -1,71 +1,46 @@
 <div align="center">
 
-  <a href="https://aashutoshmahajan.me/"><img width="100%" src="./assets/profile-hero.svg" alt="Aashutosh Mahajan — AI and Backend Engineer" /></a>
-
-  <br />
-
-  <a href="https://aashutoshmahajan.me/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4655?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aashutosh-mahajan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aashutoshmahajan.2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5EFE2?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" /></a>
-
-</div>
+<a href="https://aashutoshmahajan.me/"><img width="100%" src="./assets/hero.svg" alt="Aashutosh Mahajan, AI and backend engineer based in Mumbai" /></a>
 
 <br />
 
-<div align="center">
-
-<img width="100%" src="./assets/signal-map.svg" alt="A visual map of Aashutosh's engineering focus: agentic AI, backend systems, and full-stack delivery" />
-
-</div>
-
-## Systems I speak
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,fastapi,flask,tailwind,postgres,supabase,git,github,vercel,netlify&theme=dark" alt="Core technologies: Python, Java, JavaScript, React, Next.js, Django, FastAPI, Flask, Tailwind CSS, PostgreSQL, Supabase, Git, GitHub, Vercel and Netlify" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/AI_%26_DATA-0A0A0A?style=for-the-badge&logo=openai&logoColor=FF4655" alt="AI and data" />
-<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=FF4655" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=FF4655" alt="Pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=FF4655" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF4655" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=FF4655" alt="OpenCV" />
+<a href="https://aashutoshmahajan.me/"><img width="280" src="./assets/card-portfolio.svg" alt="Portfolio: aashutoshmahajan.me" /></a>
+<a href="https://www.linkedin.com/in/aashutosh-mahajan/"><img width="280" src="./assets/card-linkedin.svg" alt="LinkedIn: in/aashutosh-mahajan" /></a>
+<a href="mailto:aashutoshmahajan.2007@gmail.com"><img width="280" src="./assets/card-email.svg" alt="Email: aashutoshmahajan.2007@gmail.com" /></a>
 
 </div>
 
-## Engineering telemetry
+## About
+
+<img width="100%" src="./assets/terminal.svg" alt="Terminal session: Aashutosh Mahajan, AI and backend engineer. I build the layer underneath AI products: agents, ML systems and backend services that keep working after the demo ends. B.Tech in Information Technology at Vidyalankar Institute of Technology, CGPA 9.67, 2024 to 2028. 25+ hackathons, 6 national finals. Based in Mumbai, India." />
+
+## What I work on
+
+<img width="100%" src="./assets/domains.svg" alt="Four domains. Agentic AI: multi-agent workflows with LangGraph, MCP, RAG and OpenAI. Backend systems: Django, FastAPI, PostgreSQL and Redis. Machine learning: PyTorch, XGBoost, Whisper and scikit-learn. Interfaces and 3D: Next.js, React, Three.js and Flutter." />
+
+## Selected work
+
+- **[PRISM](https://github.com/Aashutosh-Mahajan/prism)**: a persistent, local context layer for AI coding agents.
+- **[ArogyaTrack](https://github.com/Aashutosh-Mahajan/ArogyaTrack)**: disease surveillance, digital prescriptions and medication management.
+- **[AUDITA](https://github.com/Aashutosh-Mahajan/AUDITA)**: a self-verifying data-cleaning agent where the LLM proposes and code verifies.
+- **[Spectra](https://github.com/Aashutosh-Mahajan/Spectra)**: six specialist agents that audit a codebase and write the report.
+- **[Weaver](https://github.com/Aashutosh-Mahajan/weaver)**: turns any website into a typed, self-healing MCP server.
+- **[Lunar Mission Simulator](https://lunar-mission-simulator.vercel.app/)**: a playable Apollo-style lunar mission, built entirely in the browser.
+
+More on the [portfolio](https://aashutoshmahajan.me/) and in my [repositories](https://github.com/Aashutosh-Mahajan?tab=repositories).
+
+## Stack
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,django,fastapi,postgres,redis,docker,supabase,tailwind,threejs,flutter,pytorch,git&theme=dark" alt="Python, TypeScript, React, Next.js, Django, FastAPI, PostgreSQL, Redis, Docker, Supabase, Tailwind CSS, Three.js, Flutter, PyTorch, Git" />
+
+## Activity
+
+<img width="100%" src="https://raw.githubusercontent.com/Aashutosh-Mahajan/Aashutosh-Mahajan/output/contribution-snake.svg" alt="A snake animation eating the squares of Aashutosh's real GitHub contribution graph" />
 
 <div align="center">
-
-<img width="94%" src="./assets/systems-dashboard.svg" alt="A visual engineering systems dashboard" />
-
-</div>
-
-<div align="center">
-
-<img width="94%" src="https://raw.githubusercontent.com/Aashutosh-Mahajan/Aashutosh-Mahajan/output/contribution-snake.svg" alt="A snake animation eating the squares of Aashutosh's real GitHub contribution graph" />
 
 <br />
 
-<sub>Live · rebuilt from real contribution data every 6 hours by <a href="./.github/workflows/snake.yml">GitHub Actions</a></sub>
-
-</div>
-
-## The good stuff
-
-I build intelligent products from the systems layer up: agentic workflows, machine-learning pipelines, dependable APIs, and interfaces that make complex technology feel intuitive. My recent work explores healthcare, financial intelligence, multilingual audio, and developer tooling.
-
-I care about more than getting a demo running. The best projects pair thoughtful architecture with fast iteration, clear product decisions, and an experience people actually want to use.
-
-<div align="center">
-
-  <a href="https://aashutoshmahajan.me/"><strong>Explore the full project archive &rarr;</strong></a>
-  &nbsp;&middot;&nbsp;
-  <a href="mailto:aashutoshmahajan.2007@gmail.com"><strong>Let's build something memorable &rarr;</strong></a>
-
-  <br /><br />
-  <sub>Made with intent, curiosity, and a little healthy obsession with clean systems.</sub>
+<sub><i>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."</i><br />Antoine de Saint-Exupéry</sub>
 
 </div>
